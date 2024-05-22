@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "tuple": "cpp",
+        "ostream": "cpp",
+        "string_view": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "initializer_list": "cpp"
+    }
+}
